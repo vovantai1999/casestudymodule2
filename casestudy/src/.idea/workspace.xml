@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33f3d555-d7ea-4217-8cb9-4f1186af655c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ARRAY AND METHODS IN JAVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ARRAY AND METHODS IN JAVA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstract Class and Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/src/bai1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/src/bai1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLEAN CODE/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLEAN CODE/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLEAN CODE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLEAN CODE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLEAN CODE/CLEAN CODE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLEAN CODE/CLEAN CODE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/src/product_arraylist/PriceDereaseComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/src/product_arraylist/PriceDereaseComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/src/product_arraylist/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/src/product_arraylist/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA STACK QUEUE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA STACK QUEUE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LOOP JAVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LOOP JAVA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEXT FILE/src/coppy_file/target_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../TEXT FILE/src/coppy_file/target_file.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EfDIqXQiIqv9dShUV9P0bB2fNJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f3d555-d7ea-4217-8cb9-4f1186af655c" name="Changes" comment="" />
+      <created>1662977667119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662977667119</updated>
+      <workItem from="1662977668386" duration="147000" />
+      <workItem from="1663479888129" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
